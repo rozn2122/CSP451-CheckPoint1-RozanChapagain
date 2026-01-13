@@ -8,7 +8,7 @@ It demonstrates basic Git, GitHub, and web project setup.
 # Installation Instructions
 Clone the repository:
    bash
-   git clone https://github.com/YourUsername/CSP451-CheckPoint1-YourName.git
+   git clone https://github.com/rozn2122/CSP451-CheckPoint1-RozanChapagain.git
 
 #Usage Examples
 
